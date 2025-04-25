@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on [AI-Podcaster](https://github.com/ajithkumar110302/AI-podcaster)
 
-- 🌱 I’m currently learning **Next.js, Typescript**
-
 - 👨‍💻 All of my projects are available at [ajithkumar.pro](ajithkumar.pro)
 
-- 💬 Ask me about **React, Gatsby, Framer Motion, SEO**
+- 💬 Ask me about **React, Next, Gatsby, Node, Express, Framer Motion, SEO**
 
 - 📫 How to reach me **ajithkumar110302@gmail.com**
 
