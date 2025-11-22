@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajithkumar A</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on [AI-Podcaster](https://github.com/ajithkumar110302/AI-podcaster)
-
-- 👨‍💻 All of my projects are available at [ajithkumar.pro](ajithkumar.pro)
+- 👨‍💻 All of my projects are available at [ajithkumar.blog](ajithkumar.blog)
 
 - 💬 Ask me about **React, Next, Gatsby, Node, Express, Framer Motion, SEO**
 
